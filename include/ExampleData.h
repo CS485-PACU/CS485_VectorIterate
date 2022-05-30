@@ -1,3 +1,12 @@
+//***************************************************************************
+// File name:   ExampleData.h
+// Author:      chadd williams  
+// Date:        5/29/2022
+// Class:       CS 485
+// Assignment:  Examples
+// Purpose:     Demonstrate how to iterate through a vector
+//***************************************************************************
+
 #include <string>
 #include <iostream>
 

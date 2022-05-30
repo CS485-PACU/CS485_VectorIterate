@@ -1,9 +1,27 @@
+//***************************************************************************
+// File name:   main.cpp
+// Author:      chadd williams  
+// Date:        5/29/2022
+// Class:       CS 485
+// Assignment:  Examples
+// Purpose:     Demonstrate how to iterate through a vector
+//***************************************************************************
+
 #include <iostream>
 #include <vector> 
 #include <string>
 #include "ExampleData.h"
 #include <algorithm>
 
+//***************************************************************************
+// Function:    main
+//
+// Description: Iterator through vectors in various ways
+//
+// Parameters:  none
+//
+// Returned:    EXIT_SUCCESS
+//***************************************************************************
 int main()
 {
     std::vector<int> cVecInts = {1,2,3,4,5};
